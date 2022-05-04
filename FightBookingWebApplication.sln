@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketBooking", "..\TicketBooking\TicketBooking.csproj", "{CD3CAC21-C96B-44B1-96DF-9F1811507FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admin", "..\Admin\Admin.csproj", "{A0865A18-D519-448D-BCD6-3504CE34ED27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3CAC21-C96B-44B1-96DF-9F1811507FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3CAC21-C96B-44B1-96DF-9F1811507FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3CAC21-C96B-44B1-96DF-9F1811507FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3CAC21-C96B-44B1-96DF-9F1811507FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0865A18-D519-448D-BCD6-3504CE34ED27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0865A18-D519-448D-BCD6-3504CE34ED27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0865A18-D519-448D-BCD6-3504CE34ED27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0865A18-D519-448D-BCD6-3504CE34ED27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C339A8F-7211-4228-B2BA-78E57D14E0D9}
+	EndGlobalSection
+EndGlobal
